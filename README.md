@@ -1,14 +1,14 @@
 # Hi, I'm Usama Aslam 👋
 
-BS Computer Science Graduate passionate about building mobile and web applications.
+A Computer Science graduate focused on Software Engineering, Mobile App Development, and building practical solutions through technology.
 
 ## About Me
 
-- 💻 Software Engineering enthusiast
-- 📱 Flutter Developer
-- ⚡ C++ Programmer
-- 🌐 Web Development experience
-- 🤖 Exploring Artificial Intelligence
+- Software Engineering enthusiast
+- Flutter Developer
+- C++ Programmer
+- Web Development experience
+- Exploring Artificial Intelligence
 
 ## Skills
 
@@ -27,6 +27,6 @@ BS Computer Science Graduate passionate about building mobile and web applicatio
 - Visa Granting Company Website
 - Intelligent Attendance and Access Control System (Flutter)
 
-## Currently
+## Contact
 
-Learning and improving my software development skills by building practical projects.
+- GitHub: rai-usamaaslam
