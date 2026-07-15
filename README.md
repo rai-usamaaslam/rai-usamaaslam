@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Usama Aslam 👋
 
-<!--
-**rai-usamaaslam/rai-usamaaslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Science Graduate passionate about building mobile and web applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Software Engineering enthusiast
+- 📱 Flutter Developer
+- ⚡ C++ Programmer
+- 🌐 Web Development experience
+- 🤖 Exploring Artificial Intelligence
+
+## Skills
+
+- C++
+- Dart & Flutter
+- HTML, CSS, JavaScript
+- SQL
+- Git & GitHub
+- Arduino & RFID
+
+## Projects
+
+- Food Ordering System (C++)
+- Wedding Management System (C++)
+- Vaccine Registration System (C++)
+- Visa Granting Company Website
+- Intelligent Attendance and Access Control System (Flutter)
+
+## Currently
+
+Learning and improving my software development skills by building practical projects.
