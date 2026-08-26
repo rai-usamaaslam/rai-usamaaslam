@@ -1,86 +1,158 @@
-<h1 align="center">Hi there, I'm Usama Aslam 👋</h1>
+<div align="center">
 
-<h3 align="center">💻 MERN Stack Developer | Computer Science Graduate | Lifelong Learner</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:0077B5&height=220&section=header&text=Usama%20Aslam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20Stack%20Developer%20%7C%20CS%20Graduate&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=600&lines=Building+Modern+Web+Applications;React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Passionate+About+Clean+Code+%26+Continuous+Learning" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00A8E8&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications+with+MERN;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express.js+%E2%80%A2+MongoDB;Turning+Ideas+Into+Scalable+Products;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:YOUR-EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/YOUR-TWITTER">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+<br/>
 
----
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR-EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/YOUR-TWITTER">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://YOUR-PORTFOLIO-LINK.com">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-### 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=00A8E8&style=for-the-badge" alt="Profile Views" />
 
-- 🎓 Computer Science graduate with a passion for **continuous learning** and **modern web development**
-- 🌱 Started my journey with **HTML, CSS, and JavaScript**, now building full-stack apps with the **MERN stack**
-- 🏗️ Currently working on a **real estate website** using React.js, Node.js, Express.js, and MongoDB
-- ⚡ I love turning ideas into clean, functional, and scalable web applications
-- 📫 Always open to collaborating on interesting projects — feel free to reach out!
+</div>
 
----
+<br/>
 
-### 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode" />
-</p>
+```javascript
+const usama = {
+    role: "MERN Stack Developer",
+    education: "Computer Science Graduate",
+    currentlyBuilding: "Real Estate Web Platform",
+    stack: ["React.js", "Node.js", "Express.js", "MongoDB"],
+    foundation: ["HTML5", "CSS3", "JavaScript (ES6+)"],
+    mindset: "Continuous learner, detail-obsessed, ships clean code",
+    funFact: "Believes good architecture today saves debugging tomorrow"
+};
+```
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+- 🎓 Computer Science graduate with a strong foundation in web fundamentals and modern JavaScript
+- 🏗️ Currently engineering a **full-stack Real Estate platform** — property listings, search & filters, auth, and a polished UI, all on the MERN stack
+- 🌱 Went from **HTML → CSS → JavaScript → the full MERN stack**, and I'm still climbing
+- ⚙️ I care about clean architecture, readable code, and building things that actually feel good to use
+- 📫 Open to collaboration, freelance work, and interesting conversations about web dev
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,figma" />
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+</div>
 
----
+<br/>
 
-### 🚀 What I'm Currently Building
+<table align="center">
+<tr>
+<td valign="top" width="50%">
 
-> 🏠 A **Real Estate Website** — a full-stack MERN application where users can browse, list, and search for properties with a smooth, modern UI.
+**Frontend**
+```
+React.js        ████████████████░░  85%
+JavaScript ES6+  ███████████████░░░  80%
+HTML5 / CSS3     ██████████████████  90%
+```
 
----
+</td>
+<td valign="top" width="50%">
 
-### 📈 Contribution Graph
+**Backend & Database**
+```
+Node.js          ██████████████░░░░  75%
+Express.js       ██████████████░░░░  75%
+MongoDB          █████████████░░░░░  70%
+REST APIs        ███████████████░░░  80%
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" />
-</p>
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+## 🚀 Currently Building
 
-<h3 align="center">⭐ "Code is like humor. When you have to explain it, it's bad." ⭐</h3>
+<table align="center">
+<tr>
+<td width="100%">
+
+### 🏠 Real Estate Platform (MERN Stack)
+A full-stack property marketplace where users can browse, list, filter, and search real estate listings with a clean, modern interface.
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT Auth` `REST API`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+> ⚙️ To activate the snake animation above, add the [platane/snk](https://github.com/Platane/snk) GitHub Action to your profile repo — it auto-generates on every push.
+
+<br/>
+
+## 🗺️ Learning Roadmap
+
+- [x] HTML5 & CSS3 fundamentals
+- [x] JavaScript (ES6+)
+- [x] React.js — components, hooks, state management
+- [x] Node.js & Express.js — REST APIs, middleware, auth
+- [x] MongoDB — schema design, aggregation
+- [ ] TypeScript
+- [ ] Next.js
+- [ ] Docker & deployment pipelines
+- [ ] System design fundamentals
+
+<br/>
+
+<div align="center">
+
+### 💬 "Code is like humor. When you have to explain it, it's bad."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00A8E8&height=120&section=footer" width="100%"/>
+
+</div>
